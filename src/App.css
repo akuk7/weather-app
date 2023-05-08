@@ -10,8 +10,8 @@ body {
   font-family: 'Outfit', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
   
 }
 
@@ -29,7 +29,7 @@ h1 {
   position: relative;
   background-color: rgba(0,0,0,0.4);
   color: #fff;
-  background: url('./assets/sunset.jpg') no-repeat center center/cover;
+  background: url('./assets/sunset.jpg') no-repeat center/cover;
 }
 
 .app:before {
